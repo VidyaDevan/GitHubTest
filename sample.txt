@@ -1,2 +1,2 @@
-vishnu code
-1+s1=2
+vidya code
+2+2=4
